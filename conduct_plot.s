@@ -1,4 +1,4 @@
-set terminal png font "Helvetica,9"
+set terminal png size 1000 font "Helvetica,8"
 set output "conductivity.png"
 set key autotitle columnhead
 unset key
